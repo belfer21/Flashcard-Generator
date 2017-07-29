@@ -1,0 +1,1 @@
+{"front":"whos is ferhat\t","back":"he is ferhat","type":"basic"};
